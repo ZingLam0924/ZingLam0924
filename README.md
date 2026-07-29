@@ -1,4 +1,4 @@
-# ZingLam / 谭政林
+# ZingLam
 
 > Building tools that extend Claude Code — memory, thinking, code quality, and infrastructure automation.
 
